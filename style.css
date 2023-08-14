@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.continue{
+    display: none;
+}
+
+.timer{
+    padding-top: 80px;
+}
+
+button{
+    margin-top: 20px;
+}
